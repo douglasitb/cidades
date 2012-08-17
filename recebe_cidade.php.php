@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<title>Exemplo: Selects de cidades e estados com AJAX (PHP e jQuery)</title>
-                <style type="text/css">
+		<style type="text/css">
 			*, html {
 				font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 				margin: 0px;
@@ -15,7 +15,7 @@
 
 			body {
 				margin: 10px;
-			}
+			sadasdsad}
 			.carregando{
 				color:#666;
 				display:none;
